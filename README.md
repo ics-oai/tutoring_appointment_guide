@@ -1,2 +1,1 @@
-# tutoring_appointment_guide
-OAI Tutoring⁺ Appointment Guide
+# OAI Tutoring⁺ Appointment Guide
